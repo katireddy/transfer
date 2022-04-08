@@ -10,3 +10,6 @@ $newPath = $currentPath + ";$installPath"
  
 # Set PATH environment variable to $newPath value
 setx PATH ($newPath)
+
+
+https://jeffbrown.tech/install-terraform-windows/
